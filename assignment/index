@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>Attributes</title>
+</head>
+<body>
+<p align="center">This is a text <br />
+<hr width="10%" align=right" />This is also a text.
+</p>
+<img src="https://static.pexels.com/photos/1562/italian-landscape-mountains-nature.jpg" height="150px"
+width="150px" alt="" />
+<a href="http://www.sololearn.com">Learn Playing</a>
+</body>
+</html>
